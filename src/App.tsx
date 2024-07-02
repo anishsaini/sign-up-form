@@ -1,20 +1,12 @@
-
-import './App.css'
-import SignUp from './Components/form'
-
-
+import "./App.css";
+import SignUp from "./Components/form";
 
 function App() {
-  
-
   return (
-  
-      <div>
-        <SignUp />
-      </div>
-      
-    
-  )
+    <div>
+      <SignUp />
+    </div>
+  );
 }
 
-export default App
+export default App;
