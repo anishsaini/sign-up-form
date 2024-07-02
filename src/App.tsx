@@ -1,6 +1,8 @@
 
 import './App.css'
-import './Components/form.tsx'
+import SignUp from './Components/form'
+
+
 
 function App() {
   
@@ -8,7 +10,7 @@ function App() {
   return (
   
       <div>
-        <form />
+        <SignUp />
       </div>
       
     
